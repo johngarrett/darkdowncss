@@ -1,4 +1,4 @@
-# Darkdown.css: make the Web prettier...and less harshly bright.
+# Darkdown.css + Github markdown
 
 Darkdown.css is an adaptation of [Kevin Burke's](http://kev.inburke.com/) beautiful
 [Markdown.css](http://kevinburke.bitbucket.org/markdowncss) which offers much 
